@@ -1,0 +1,11 @@
+.container {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.btn-delete{
+  border: none;
+  color: blue;
+  background-color: lightgray;
+  text-decoration: underline;
+}
